@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="number_of_notes">%d Notes</string>
+    <string name="done">Done</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add_reminder">Add reminder</string>
+    <string name="remove_reminder">Remove reminder</string>
+    <string name="retry">Retry</string>
+    <string name="add_note">Add note</string>
+    <string name="note_details">Note Details</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="add_url">Add Url</string>
+    <string name="add_image">Add Image</string>
+    <string name="remove_image">Remove Image</string>
+
+</resources>

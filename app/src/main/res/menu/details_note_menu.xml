@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:icon="@drawable/ic_edit"
+        android:id="@+id/action_edit"
+        app:showAsAction="ifRoom"
+        android:visible="false"
+        android:title="@string/edit"
+        />
+
+    <item android:icon="@drawable/ic_done"
+        android:id="@+id/action_done"
+        app:showAsAction="ifRoom"
+        android:visible="false"
+        android:title="@string/done" />
+
+    <item android:icon="@drawable/ic_delete"
+        android:id="@+id/action_delete"
+        app:showAsAction="never"
+        android:visible="false"
+        android:title="@string/delete" />
+
+    <item android:icon="@drawable/ic_add_alarm"
+        android:id="@+id/action_add_reminder"
+        app:showAsAction="never"
+        android:visible="false"
+        android:title="@string/add_reminder" />
+
+    <item android:icon="@drawable/ic_remove_reminder"
+        android:id="@+id/action_remove_reminder"
+        app:showAsAction="never"
+        android:visible="false"
+        android:title="@string/remove_reminder" />
+
+    <item android:icon="@drawable/ic_add_image"
+        android:id="@+id/action_add_image"
+        app:showAsAction="never"
+        android:visible="false"
+        android:title="@string/add_image" />
+
+    <item android:icon="@drawable/ic_remove_image"
+        android:id="@+id/action_remove_image"
+        app:showAsAction="never"
+        android:visible="false"
+        android:title="@string/remove_image" />
+
+
+
+</menu>
