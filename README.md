@@ -12,5 +12,6 @@ se filtriraat samo beleskite koi go sodrzat napisanoto vo Search barot.
 -vo dropdown menito na Note Details imam dodadeno opcii : delete, za ako sakame cela beleska da ja izbriseme ( pritoa se brise i od bazata soodvetno), add reminder,
 za ako sakame da dodademe odreden potsetnik(birame soodveten datum), se dodava vo NotesApp vo RV listata soodvetno za sakanata beleska,
 add image opcija- so koja sto od emulatorot mozeme da dodademe slika vo note details.
+(dokolku se dodade slika so klik na add image, se pojavuva vo menito opcija delete image, isto taka i dokolku dodademe reminder, se pojavuva opcija delete reminder vo menito )
 Vo dizajnot na aplikacijata se upotrebeni minimalisticki boi i font.
 
